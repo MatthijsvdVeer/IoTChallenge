@@ -34,6 +34,9 @@ There is a central scoreboard, that shows who's completed the most calculations.
 ## Misc
 You might need to manually install drivers on your Windows machine, this isn't always the case. [USB UART Drivers][2]
 
+Using Visual Studio and icons are missing? Quit Visual Studio entirely and run
+```devenv /updateConfiguration```
+
 [1]: https://docs.nanoframework.net/content/getting-started-guides/getting-started-managed.html?WT.mc_id=IoT-MVP-5004034
 [2]: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 [3]: https://github.com/nanoframework/nanoFramework.Azure.Devices
